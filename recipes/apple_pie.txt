@@ -5,4 +5,5 @@ flour
 sugar
 apples
 salt
+eggs
 1 tbsp cinnamon
